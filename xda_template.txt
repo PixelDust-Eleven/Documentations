@@ -63,7 +63,7 @@ If your device fails to comply with your standards of what you consider function
 
 [B][U]Theme options[/U][/B]
 * Themes: Choose between 48 different accent colors, 8 different clock interfaces and more
-* Style: Automatic, Light, Google dark, Pitch black, Solarized dark
+* Style: Automatic, Light, Google dark, Pitch black, Solarized dark, Black Coffee
 
 [B][U]Status bar[/U][/B]
 * Status bar icon whitelist
@@ -132,6 +132,7 @@ By downloading this custom ROM you agree that I, the developer of PixelDust ROM,
 [IMG="Social media"]https://abload.de/img/socialmedia5ljkh.png[/IMG]
 [B]Telegram Discussion Channel:[/B] [url]https://t.me/pixeldustcommunity[/url]
 [B]Telegram Announcements Channel:[/B] [url]https://t.me/pixeldustproject[/url]
+[B]Telegram Build Support Channel:[/B] [url]https://t.me/compile_pixeldust[/url]
 [B]Discord Server:[/B] [url]https://discord.gg/ANtVnW8[/url]
 
 [/HIDE]
