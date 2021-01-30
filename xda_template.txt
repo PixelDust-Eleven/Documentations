@@ -149,7 +149,7 @@ By downloading this custom ROM you agree that I, the developer of PixelDust ROM,
 
 [IMG="Credits"]https://abload.de/img/creditsi9kfj.png[/IMG]
 
-Thanks to all development teams, e.g. ABC ROM, AICP, AOKP, AOSPA, AOSP Extended, BenzoROM, Bootleggers, CarbonROM, crDroid, DirtyUnicorns, Havoc OS, HentaiOS, LOS, MSM-Xtended Project, OmniROM, Potatoes Project, PureNexus and YAAP, we borrowed a few features and tweaks from.
+Thanks to all development teams, e.g. ABC ROM, AICP, AOKP, AOSPA, AOSP Extended, BenzoROM, Bootleggers, CarbonROM, crDroid, DirtyUnicorns, Havoc OS, HentaiOS, LOS, MSM-Xtended Project, OmniROM, Potatoes Project, PureNexus, ProtonAOSP and YAAP, we borrowed a few features and tweaks from.
 
 
 
