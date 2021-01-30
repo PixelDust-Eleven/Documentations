@@ -1,22 +1,20 @@
 Thread title:
 
-[ROM][device][10.0] PixelDust Android 10 for {device}
+[ROM][device][11.0] PixelDust Android 11 for {device}
 
 OP template:
 
-[CENTER][img]https://abload.de/img/banner10fkkfp.png[/img][/CENTER]
+[CENTER][img]https://abload.de/img/banner11spjzm.png[/img][/CENTER]
 
-[B]PixelDust ROM[/B] is an Android 10 ROM especially built for Google Pixel and Nexus devices.
+[B]PixelDust ROM[/B] is an Android 11 ROM especially built for the current Google Pixel devices and aimed for stability at its core with themes and customizations.
 
-The code is based off directly from AOSP. We strive to keep the PixelDust Experience as close as possible to Android as Google intended. We add a decent selection of the coolest custom ROM features that would've been missed if they hadn't been included. 
+Our philosophy is to offer all the features known from the Google Pixel Factory Images paired with a useful selection of the coolest custom ROM features.
+
+Our project is based off directly from AOSP. We attach great importance to aesthetics, themeability and personalization. For this we have integrated a great selection of space wallpapers and a special theme app (many thanks to Dirty Unicorns for their code base) in the settings of the Android OS.
+
 The PixelDust Crew would highly appreciate if you would take a little of your time and leave your valuable feedback, your honest opinion or just say hello. If you should encounter a bug, or some kind of glitch that seems to be abnormal and you are pretty sure that it is related to the ROM (and not related to any special apps or mods you flashed on top), then please give as many details as possible.
 
 Special shoutouts to [URL="https://forum.xda-developers.com/member.php?u=5545371"]Roger.T[/URL] for his amazingly designed wallpapers, logos and the best bootanimation I ever had on my Pixel!!! If you like our work, please consider to [URL="https://www.paypal.me/RogerTruttmann"]buy Roger the first beer[/URL], and a few more for the other team members and [URL="https://www.paypal.me/spezi77"]spezi77[/URL]. Cheers!
-
-
-BTW, please consider to take a logcat, because you know that: 
-
-[QUOTE=DespairFactor]If you submit bug reports without a log, you may be prosecuted...or executed.[/QUOTE]
 
 
 [B][COLOR="Red"]Disclaimer:[/COLOR][/B]
@@ -26,10 +24,13 @@ If your device fails to comply with your standards of what you consider function
 [IMG="Listing of features"]https://abload.de/img/listingoffeaturesnuj5z.png[/IMG]
 [HIDE]
 * Periodic AOSP security updates
-* Pixel GApps included (no need to flash any third party GApps)
-* Pixel 4 wallpapers :)
+* Vendor image and Pixel GApps included (Please do not flash any third party GApps)
+* Pixel wallpapers
+* PixelDust wallpapers
 * PixelDust Launcher
-* Enhanced theming engine (big thanks to DirtyUnicorns for their commits)
+
+[B][U]Theming[/U][/B]
+* Additional dark/black themes, Accent colors, Fonts, Icon shapes, Navbar and QS tile styles
 
 [B][U]Additional QS tiles[/U][/B]
 * Always On Display
@@ -37,93 +38,76 @@ If your device fails to comply with your standards of what you consider function
 * Language
 * NFC
 * PixelDust Settings
-* Screenshot (Partial/Full/Longshot)
+* Screenshot (Partial/Full)
 * and many more
 
-[B][U]Display[/U][/B]
-* Theming: Dark/black themes, Accent colors, Fonts, Icon shapes, QS tile styles
-
 [B][U]Lock screen display[/U][/B]
-* Battery level on bottom
-* Ambient music ticker
-* Charging info
+* Ambient wake gestures
+* Pixel style Ambient music ticker
+* Now Playing support (only Pixel 2 and higher)
 
 [B][U]Security[/U][/B]
 * Lock screen PIN quick unlock
+* Face Unlock
 
 [B][U]System Gestures[/U][/B]
+* Active Edge
 * Swipe fingerprint for notifications
 * Swipe fingerprint left or right to dismiss notifications
 * Volume rocker skips music tracks
 * Three-fingers-swipe to screenshot
-
-[B][U]PixelDust Wallpapers[/U][/B]
-* A set of 15 breathtaking space themed Wallpapers
-
-[B][U]Theme options[/U][/B]
-* Themes: Choose between 48 different accent colors, 8 different clock interfaces and more
-* Style: Automatic, Light, Google dark, Pitch black, Solarized dark, Black Coffee
+* Advanced Gestural navigation settings
 
 [B][U]Status bar[/U][/B]
-* Status bar icon whitelist
-* Network traffic display
+* Status bar items
+* Network activity
 * Clock & date settings
 * Battery settings
 
 [B][U]Quick settings[/U][/B]
-* Vibrate on touch
 * Secure tiles require unlocking
 * Battery percentage
 * Battery estimate
-* Display clock in QS header
-* Footer brightness slider
-* Brightness slider on/off toggle
-* Brightness slider bottom
-* Auto brightness icon
-* Min-Max icon
-* Status bar pulls down Quick Settings
+* Quick QS pulldown
+* QS columns/rows customizations
+* and many more
 
 [B][U]Buttons[/U][/B]
-* Accidental touch
 * Screen off power button torch
-* Volume Settings: Playback control, Volume wake, Volume steps
-* Volume Panel
+* Volume Settings: Playback control, Volume wake, Volume key cursor
 
 [B][U]Navigation bar[/U][/B]
 * Navbar visibility toggle
+* 3-button navigation options:
 * Layout (normal, compact, left-leaning, right-leaning)
 * Invert layout of Navbar buttons
-* Show arrow keys while typing
+* Pixel animation
 
 [B][U]Gestures[/U][/B]
 * Status bar dt2s
 * Lock screen dt2s
 
 [B][U]Lock screen[/U][/B]
-* Left & right lock screen shortcuts
-* Fingerprint authentication vibration
-* Pocket detection
+* Battery info
+* Charging animation
+* Lockscreen shortcuts
+* Show/hide quick settings
+* Show/hide status bar
 * Media cover art
 * Media artwork blur level
 * Lock screen charging animation
 
 [B][U]Power menu[/U][/B]
-* Disable power menu when locked
-* Power Menu options incl. advanced Restart options and many more
+* Additional Power Menu options incl. advanced Restart
 
 [B][U]Notifications[/U][/B]
-* Notifications light
-* Battery charging light
-* Ambient display brightness
-* Ambient notification brightness
-* Edge lighting
+* Less boring heads up
+* Notification sound if active
 
 [B][U]Misc[/U][/B]
 * Pulse for NavBar, LockScreen and Ambient Screen
-* Gaming Mode
 * Wake up on charge
 * Rounded corners
-* Disable device identifier restrictions
 
 [/HIDE]
 
@@ -165,7 +149,7 @@ By downloading this custom ROM you agree that I, the developer of PixelDust ROM,
 
 [IMG="Credits"]https://abload.de/img/creditsi9kfj.png[/IMG]
 
-Thanks to all development teams, e.g. ABC ROM, AICP, AOKP, AOSPA, AOSP Extended, BenzoROM, Bootleggers, CarbonROM, crDroid, DirtyUnicorns, Havoc OS, LOS, MSM-Xtended Project, OmniROM, Potatoes Project and PureNexus, we borrowed a few features and tweaks from.
+Thanks to all development teams, e.g. ABC ROM, AICP, AOKP, AOSPA, AOSP Extended, BenzoROM, Bootleggers, CarbonROM, crDroid, DirtyUnicorns, Havoc OS, HentaiOS, LOS, MSM-Xtended Project, OmniROM, Potatoes Project, PureNexus and YAAP, we borrowed a few features and tweaks from.
 
 
 
