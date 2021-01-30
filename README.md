@@ -1,10 +1,10 @@
 # Documentations & Thread Template For PixelDust Project
 
-![pixeldust](https://raw.githubusercontent.com/PixelDust-Project-X/Documentations/master/pixeldust.png)
+![pixeldust](https://raw.githubusercontent.com/PixelDust-Eleven/Documentations/master/pixeldust.png)
 
 ## Guidelines
 All the maintainers are requested to follow the guidelines
-mentioned [**here**](https://github.com/PixelDust-Project-X/Documentations/raw/master/Rules_For_Maintainers.md). Be respectful to users & other
+mentioned [**here**](https://github.com/PixelDust-Eleven/Documentations/raw/master/Rules_For_Maintainers.md). Be respectful to users & other
 maintainers.
 
 ## Applying For Official Support
@@ -29,7 +29,7 @@ you qualify before applying or you will be rejected immediately.
   specific bugs.
 
 ## Important Links
-- [XDA template](https://raw.githubusercontent.com/PixelDust-Project-X/Documentations/master/xda_template.txt)
+- [XDA template](https://raw.githubusercontent.com/PixelDust-Eleven/Documentations/master/xda_template.txt)
 - [Download Portal](https://sourceforge.net/projects/pixeldustproject/files/ota/)
 - [PixelDust Devices](https://github.com/pixeldust-devices)
 - [Discord Server](https://discord.gg/MQt9KQc)
